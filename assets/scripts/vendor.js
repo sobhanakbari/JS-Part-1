@@ -1,5 +1,4 @@
 const userInput = document.getElementById('input-number');
-console.log(typeof userInput);
 const addBtn = document.getElementById('btn-add');
 const subtractBtn = document.getElementById('btn-subtract');
 const multiplyBtn = document.getElementById('btn-multiply');
